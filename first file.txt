@@ -1,0 +1,15 @@
+Last login: Thu Oct 29 14:55:52 on ttys000
+test@Anastasia ~ % git clone https://github.com/oblivionlostt/itmo31.git
+Cloning into 'itmo31'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (3/3), done.
+test@Anastasia ~ % cd itmo31
+cd: no such file or directory: itmo31
+test@Anastasia ~ % cd desktop
+test@Anastasia desktop % cd itmo31 
+test@Anastasia itmo31 % 
+
+
+print("Hello, world!")
